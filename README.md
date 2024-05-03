@@ -40,14 +40,11 @@ ___
 ## Some statistics about me:
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rujjal&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rujjal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rujjal's github stats" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujjal&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujjal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
-___
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampujan" alt="Pujan" /> </p>
 
 ### Thanks for visiting!
